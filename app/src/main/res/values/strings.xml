@@ -1,0 +1,19 @@
+<resources>
+    <string name="bubbLE">BubbLE</string>
+    <string name="youHaveNotGivenLocationPermission">You have not given location permission</string>
+    <string name="youHaveNotGivenBluetoothScanPermission">You have not given bluetooth scan permission</string>
+    <string name="youHaveNotGivenBluetoothConnectPermission">You have not given bluetooth connect permission</string>
+    <string name="youHaveNotEnabledBluetooth">You have not enabled bluetooth</string>
+    <string name="grandPermission">Grand permission</string>
+    <string name="enable">Enable</string>
+    <string name="startScan">Start scan</string>
+    <string name="stopScan">Stop scan</string>
+    <string name="availableDevices">Available Devices</string>
+    <string name="noDevicesAvailable">No devices available.</string>
+    <string name="startScanToFindNearByDevices">Start scan to find nearby devices.</string>
+    <string name="deviceName">Device name</string>
+    <string name="signalStrength">Signal strength</string>
+    <string name="unnamed">Unnamed</string>
+    <string name="characteristics">Characteristics</string>
+    <string name="dBm">dBm</string>
+</resources>
